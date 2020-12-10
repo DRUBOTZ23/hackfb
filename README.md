@@ -4,15 +4,15 @@
 
 <img src="https://github.com/Bangbadruyt/cloning/blob/main/Screenshot_2020-12-10-21-07-54-55_84d3000e3f4017145260f7618db1d683.jpg" />
 
-😈apt update
+😈pkg update && pkg upgrade
 
-😈 apt upgrade -y
+😈 pkg install python2
 
-😈 apt install git -y
+😈 pkg install git 
 
-😈 pkg install python
+😈 pkg install php
 
-😈 pkg install python2 -y
+
 
 😈 pip2 install requests
 
