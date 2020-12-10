@@ -20,16 +20,16 @@
 
 😈 pip install lolcat
 
-😈 git clone https://github.com/Bangbadruyt/crack
+😈 git clone https://github.com/Bangbadruyt/cloning
 
-😈 cd crack
+😈 cd cloning
 
 😈 bash setup.sh
 
-👾 python2 bangbadru.py
+👾 python2 cloningg.py
 
 #UNTUK AMBIL TOKEN Nya Cek Disini :
-https://youtu.be/9RtlErE1BSE
+https://youtu.be/AsE-6AYbJ1w
 
 
 
