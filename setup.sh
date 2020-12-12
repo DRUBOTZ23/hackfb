@@ -2,62 +2,62 @@
 clear
 echo
 echo "Tunggu Sampai Proses Selesai Tod Sabar..!"
-echo "Ucapkan BANG BADRU Ganteng 3X Biar Work Xixixi:v"
+echo "Ucapkan CYBER EROR 404 Ganteng 3X Biar Work Xixixi:v"
 echo
 pip install requests
 clear
 echo
 echo "Tunggu Sampai Proses Selesai Tod Sabar..!"
-echo "Ucapkan BANG BADRU Ganteng 3X Biar Work Xixixi:v"
+echo "Ucapkan CYBER EROR Ganteng 3X Biar Work Xixixi:v"
 echo
 pip install mechanize
 clear
 echo
 echo "Tunggu Sampai Proses Selesai Tod Sabar..!"
-echo "Ucapkan BANG BADRU Ganteng 3X Biar Work Xixixi:v"
+echo "Ucapkan CYBER EROR Ganteng 3X Biar Work Xixixi:v"
 echo
 pip install requests bs4
 clear
 echo
 echo "Tunggu Sampai Proses Selesai Tod Sabar..!"
-echo "Ucapkan BANG BADRU Ganteng 3X Biar Work Xixixi:v"
+echo "Ucapkan CYBER EROR Ganteng 3X Biar Work Xixixi:v"
 echo
 pkg install figlet
 clear
 echo
 echo "Tunggu Sampai Proses Selesai Tod Sabar..!"
-echo "Ucapkan BANG BADRU Ganteng 3X Biar Work Xixixi:v"
+echo "Ucapkan CYBER EROR Ganteng 3X Biar Work Xixixi:v"
 echo
 pip2 install requests
 clear
 echo
 echo "Tunggu Sampai Proses Selesai Tod Sabar..!"
-echo "Ucapkan BANG BADRU Ganteng 3X Biar Work Xixixi:v"
+echo "Ucapkan CYBER EROR Ganteng 3X Biar Work Xixixi:v"
 echo
 pip2 install tqdm
 clear
 echo
 echo "Tunggu Sampai Proses Selesai Tod Sabar..!"
-echo "Ucapkan BANG BADRU Ganteng 3X Biar Work Xixixi:v"
+echo "Ucapkan CYBER EROR Ganteng 3X Biar Work Xixixi:v"
 echo
 pip2 install mechanize
 clear
 echo
 echo "Tunggu Sampai Proses Selesai Tod Sabar..!"
-echo "Ucapkan BANG BADRU Ganteng 3X Biar Work Xixixi:v"
+echo "Ucapkan CYBER EROR Ganteng 3X Biar Work Xixixi:v"
 echo
 pkg install ruby -y
 clear
 echo
 echo "Tunggu Sampai Proses Selesai Tod Sabar..!"
-echo "Ucapkan BANG BADRU Ganteng 3X Biar Work Xixixi:v"
+echo "Ucapkan CYBER EROR Ganteng 3X Biar Work Xixixi:v"
 echo
 gem install lolcat
 clear
-figlet BADRU | lolcat
+figlet CYBER EROR | lolcat
 sleep 2
 clear
-figlet BADRU | lolcat
+figlet CYBER EROR | lolcat
 sleep 2
 clear
 echo
