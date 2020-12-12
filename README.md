@@ -21,9 +21,9 @@
 😈 pip install lolcat
 
 😈
-git clone https://github.com/Bangbadruyt/cloning
+git clone https://github.com/Bangbadruyt/cloningfb
 
-😈 cd cloning
+😈 cd cloningfb
 
 😈 bash setup.sh
 
