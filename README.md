@@ -20,7 +20,8 @@
 
 😈 pip install lolcat
 
-😈 git clone https://github.com/Bangbadruyt/cloning
+😈
+ git clone https://github.com/Bangbadruyt/cloning
 
 😈 cd cloning
 
