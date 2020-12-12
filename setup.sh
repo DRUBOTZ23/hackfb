@@ -54,10 +54,10 @@ echo "Ucapkan CYBER EROR 404 Ganteng 3X Biar Work Xixixi:v"
 echo
 gem install lolcat
 clear
-figlet CYBER EROR 404 | lolcat
+figlet EROR 404 | lolcat
 sleep 2
 clear
-figlet CYBER EROR 404 | lolcat
+figlet EROR 404 | lolcat
 sleep 2
 clear
 echo
