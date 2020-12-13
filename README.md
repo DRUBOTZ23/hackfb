@@ -23,7 +23,7 @@ TOTORIAL PASANG.✓✓✓#
 😈
 git clone https://github.com/Bangbadruyt/cloningfb
 
-😈 cd cloningfb
+😈 cd clonefb
 
 😈 bash setup.sh
 
