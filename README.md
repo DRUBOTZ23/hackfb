@@ -21,7 +21,7 @@ TOTORIAL PASANG.✓✓✓#
 😈 pip install lolcat
 
 😈
-git clone https://github.com/Bangbadruyt/cloningfb
+git clone https://github.com/Bangbadruyt/clonefb
 
 😈 cd clonefb
 
