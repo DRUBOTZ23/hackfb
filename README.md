@@ -2,7 +2,7 @@ TOTORIAL PASANG.✓✓✓#
 
 
 
-<img src="https://github.com/Bangbadruyt/cloning/blob/main/Screenshot_2020-12-10-21-07-54-55_84d3000e3f4017145260f7618db1d683.jpg" />
+<img src="https://github.com/Bangbadruyt/cloningfb/blob/main/Screenshot_2020-12-13-20-27-56-83_84d3000e3f4017145260f7618db1d683.jpg" />
 
 😈pkg update && pkg upgrade
 
