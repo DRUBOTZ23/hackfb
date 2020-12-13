@@ -69,4 +69,4 @@ echo "╭╱╱▕╋╋╋╋▏╲╲╮╭╱╱▕╋╋╋╋▏╲╲╮�
 echo "╰╯╯┈╲▂▂╱┈╰╰╯╰╯╯┈╲▂▂╱┈╰╰╯╰╯╯┈╲▂▂╱┈╰╰╯" | lolcat
 echo
 echo
-echo "Langsung ketik python2 cloningfb.py" | lolcat
+echo "Langsung Salin Bro python2 crackfb.py" | lolcat
