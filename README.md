@@ -1,6 +1,6 @@
 TOTORIAL PASANG.✓✓✓#
 
-<img src="https://github.com/Bangbadruyt/cloningfb/blob/main/Screenshot_2020-12-13-20-27-22-88_84d3000e3f4017145260f7618db1d683.jpg" />
+<img src="https://github.com/Bangbadruyt/clonefb/blob/main/Screenshot_2020-12-16-09-06-47-46.jpg" />
 
 <img src="https://github.com/Bangbadruyt/cloningfb/blob/main/Screenshot_2020-12-13-20-27-56-83_84d3000e3f4017145260f7618db1d683.jpg" />
 
