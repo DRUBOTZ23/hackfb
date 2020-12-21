@@ -30,7 +30,8 @@ git clone https://github.com/Bangbadruyt/hackfb.git
 👾 python2 crackfb
 
 #Username:BANG
-#Pass:BADRU
+ 
+ #Pass:BADRU
 
 
 
