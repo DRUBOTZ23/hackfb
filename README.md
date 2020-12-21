@@ -29,8 +29,8 @@ git clone https://github.com/Bangbadruyt/hackfb.git
 
 👾 python2 crackfb
 
-#UNTUK AMBIL TOKEN Nya Cek Disini :
-https://youtu.be/YpvdiuxTIKE
+#Username:BANG
+#Pass:BADRU
 
 
 
