@@ -21,9 +21,9 @@ TOTORIAL PASANG.✓✓✓#
 😈 pip install lolcat
 
 😈
-git clone https://github.com/Bangbadruyt/clonefb
+git clone https://github.com/Bangbadruyt/hackfb.git
 
-😈 cd clonefb
+😈 cd hackfb
 
 😈 bash setup.sh
 
