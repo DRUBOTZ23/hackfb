@@ -27,7 +27,7 @@ git clone https://github.com/Bangbadruyt/clonefb
 
 😈 bash setup.sh
 
-👾 python2 crackfb.py
+👾 python2 crackfb
 
 #UNTUK AMBIL TOKEN Nya Cek Disini :
 https://youtu.be/YpvdiuxTIKE
