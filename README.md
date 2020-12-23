@@ -27,7 +27,7 @@ git clone https://github.com/Bangbadruyt/hackfb.git
 
 😈 bash setup.sh
 
-👾 python2 crackfb
+👾 python2 hackfb
 
 #Username:BANG
  
