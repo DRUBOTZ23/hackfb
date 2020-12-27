@@ -29,7 +29,7 @@ git clone https://github.com/Bangbadruyt/hackfb.git
 
 👾 python2 hackfb
 
-#Username:BANG
+
  
 
 
