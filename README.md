@@ -38,4 +38,4 @@ python2 hackfb.py
 * [<img alt="badru Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Bangbadruyt/)<br />
 * [<img alt="badru Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://www.facebook.com/Bb.yt23)<br />
 * [<img alt="badru Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/628811403654?text=Asalamualaikum+Ganteng)<br />
-* [<img alt="badru YouTube" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/YouTube.svg" /> <b>YouTube</b>](https://www.youtube.com/channel/UCc3ktJXzCcNfEo8q5t2lVAg)<br />
+* [<img alt="badru YouTube" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/YouTube.svg" /> <b>youTube</b>](https://www.youtube.com/channel/UCc3ktJXzCcNfEo8q5t2lVAg)<br />
