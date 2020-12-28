@@ -1,4 +1,4 @@
-<img src="https://github.com/Bangbadruyt/hackfb/blob/main/IMG_20201228_195926.jpg/
+<img src="https://github.com/Bangbadruyt/hackfb/blob/main/https://github.com/Bangbadruyt/hackfb/blob/main/IMG_20201228_195926.jpg
 <h1 align="center">
     ❤BANG BADRU❤
 </h1>
